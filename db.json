@@ -1,0 +1,151 @@
+{ 
+  "users":[
+  {
+    "id": "0",
+    "name_artist": "Isias",
+    "last_name_artist": "Royce",
+    "nick_name": "THE MASTER",
+    "occupation": "Tatuador",
+    "description_work": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo itaque consectetur corrupti. Voluptas fugiat quam reiciendis fuga! Voluptatem eaque qui dolores neque quae nemo eveniet atque, cum labore, molestiae repellendus.",
+    "social_networks":[
+      {
+        "whatsApp": "+58 000 0000000",
+        "facebook": "#",
+        "instagram": "#",
+        "Space X": "#",
+        "e-mail": "miemail@gmail.com"
+      }
+    ],
+    "image_artist":[ 
+      "https://github.com/Elien-Dev/pictures-tattoo/blob/main/Pictures%20Artist%20Tattoo/artist-0.png"
+    ],
+    "works_artist":[
+      
+    ]
+  },
+
+  {
+    "id": "1",
+    "name_artist": "Anahis",
+    "last_name_artist": "Acosta",
+    "nick_name": "Angel",
+    "occupation": "Tatuador",
+    "description_work": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo itaque consectetur corrupti. Voluptas fugiat quam reiciendis fuga! Voluptatem eaque qui dolores neque quae nemo eveniet atque, cum labore, molestiae repellendus.",
+    "social_networks":[
+      {
+        "whatsApp": "+58 000 0000000",
+        "facebook": "#",
+        "instagram": "#",
+        "Space X": "#",
+        "e-mail": "miemail@gmail.com"
+      }
+    ],
+    "image_artist":[ 
+      "https://github.com/Elien-Dev/pictures-tattoo/blob/main/Pictures%20Artist%20Tattoo/artist-1.png"
+    ],
+    "works_artist":[
+      
+    ]
+  },
+
+  {
+    "id": "2",
+    "name_artist": "Andrew",
+    "last_name_artist": "Stone",
+    "nick_name": "Raven",
+    "occupation": "Tatuador",
+    "description_work": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo itaque consectetur corrupti. Voluptas fugiat quam reiciendis fuga! Voluptatem eaque qui dolores neque quae nemo eveniet atque, cum labore, molestiae repellendus.",
+    "social_networks":[
+      {
+        "whatsApp": "+58 000 0000000",
+        "facebook": "#",
+        "instagram": "#",
+        "Space X": "#",
+        "e-mail": "miemail@gmail.com"
+      }
+    ],
+    "image_artist":[ 
+      "https://github.com/Elien-Dev/pictures-tattoo/blob/main/Pictures%20Artist%20Tattoo/artist-2.png"
+    ],
+    "works_artist":[
+      
+    ]
+  },
+
+  {
+    "id": "3",
+    "name_artist": "Melissa",
+    "last_name_artist": "Rivera",
+    "nick_name": "Kytti",
+    "occupation": "Tatuador",
+    "description_work": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo itaque consectetur corrupti. Voluptas fugiat quam reiciendis fuga! Voluptatem eaque qui dolores neque quae nemo eveniet atque, cum labore, molestiae repellendus.",
+    "social_networks":[
+      {
+        "whatsApp": "+58 000 0000000",
+        "facebook": "#",
+        "instagram": "#",
+        "Space X": "#",
+        "e-mail": "miemail@gmail.com"
+      }
+    ],
+    "image_artist":[ 
+      "https://github.com/Elien-Dev/pictures-tattoo/blob/main/Pictures%20Artist%20Tattoo/artist-3.png"
+    ],
+    "works_artist":[
+      
+    ]
+  },
+
+  {
+    "id": "4",
+    "name_artist": "Antonio",
+    "last_name_artist": "Santeramo",
+    "nick_name": "Dalí",
+    "occupation": "Tatuador",
+    "description_work": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo itaque consectetur corrupti. Voluptas fugiat quam reiciendis fuga! Voluptatem eaque qui dolores neque quae nemo eveniet atque, cum labore, molestiae repellendus.",
+    "social_networks":[
+      {
+        "whatsApp": "+58 000 0000000",
+        "facebook": "#",
+        "instagram": "#",
+        "Space X": "#",
+        "e-mail": "miemail@gmail.com"
+      }
+    ],
+    "image_artist":[ 
+      "https://github.com/Elien-Dev/pictures-tattoo/blob/main/Pictures%20Artist%20Tattoo/artist-4.png"
+    ],
+    "works_artist":[
+      
+    ]
+  },
+
+  {
+    "id": "5",
+    "name_artist": "Nina",
+    "last_name_artist": "Maronti",
+    "nick_name": "Era",
+    "occupation": "Tatuador",
+    "description_work": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo itaque consectetur corrupti. Voluptas fugiat quam reiciendis fuga! Voluptatem eaque qui dolores neque quae nemo eveniet atque, cum labore, molestiae repellendus.",
+    "social_networks":[
+      {
+        "whatsApp": "+58 000 0000000",
+        "facebook": "#",
+        "instagram": "#",
+        "Space X": "#",
+        "e-mail": "miemail@gmail.com"
+      }
+    ],
+    "image_artist":[ 
+      "https://github.com/Elien-Dev/pictures-tattoo/blob/main/Pictures%20Artist%20Tattoo/artist-5.png"
+    ],
+    "works_artist":[
+      
+    ]
+  }
+
+  ],
+
+  "picturesBG":[
+  ]
+}
